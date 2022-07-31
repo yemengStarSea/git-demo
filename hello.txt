@@ -4,5 +4,5 @@ hello ouyang! hello git!
 hello ouyang! hello git!
 hello ouyang! hello git!
 hello ouyang! hello git!
-hello ouyang! hello git! master test
-hello ouyang! hello git!
+hello ouyang! hello git! master test 
+hello ouyang! hello git! hot-fix test
